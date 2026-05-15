@@ -1,26 +1,74 @@
- Hi, I'm Anjali Patel Lodhi
+# Hi, I'm Anjali Patel Lodhi 👋
 
- Computer Science Engineering Graduate   
- Aspiring Data Analyst | Data Science Enthusiast  
- Passionate about turning data into meaningful insights
+🎓 Computer Science Engineering Graduate  
+📊 Aspiring Data Analyst | AI/ML Engineer | GenAI Enthusiast  
+💡 Passionate about solving real-world problems using data, machine learning, and AI-driven solutions.
 
- Interests:
-• Data Analytics & Business Insights
-• Machine Learning & Predictive Analysis
-• SQL, Python, Power BI & Excel
-• Data Visualization & Storytelling
+---
 
- Tools & Technologies:
-Python | Pandas | NumPy | Matplotlib | SQL | Power BI | Excel
+## 🚀 About Me
 
- Current Focus:
-Building real-world data projects and improving analytical problem-solving skills.
+I enjoy transforming raw data into actionable insights and building intelligent systems that create impact.  
+Currently focused on developing hands-on projects in:
 
- Explore my repositories to see my projects and learning journey.
- Let's connect: https://www.linkedin.com/in/anjali-patel-344892236/
+- Data Analytics & Business Intelligence
+- Machine Learning & Predictive Modeling
+- Generative AI & AI Applications
+- Data Visualization & Storytelling
+- Problem Solving with Real-World Datasets
 
+---
 
-<!---
-Anjalipatel04/Anjalipatel04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Skills & Technologies
+
+### Programming & Analytics
+- Python
+- SQL
+- Excel
+
+### Data Science & ML
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+
+### Visualization & BI
+- Power BI
+- Data Visualization
+- Dashboard Development
+
+### AI & Emerging Tech
+- Machine Learning
+- Generative AI
+- Prompt Engineering
+
+---
+
+## 📌 Current Focus
+
+- Building end-to-end data analytics and AI projects
+- Exploring Generative AI and intelligent applications
+- Strengthening problem-solving and analytical thinking
+- Learning industry-level tools and workflows
+
+---
+
+## 📂 Featured Work
+
+Explore my repositories to see:
+- Data Analytics Projects
+- Machine Learning Models
+- AI & GenAI Experiments
+- Visualization Dashboards
+- Real-world Problem Solving Projects
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn:  
+[Anjali Patel Lodhi LinkedIn](https://www.linkedin.com/in/anjali-patel-344892236/)
+
+---
+
+⭐ Always learning, building, and growing in the world of Data & AI.
