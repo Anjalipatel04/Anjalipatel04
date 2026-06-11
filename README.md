@@ -42,6 +42,16 @@ Currently focused on developing hands-on projects in:
 - Generative AI
 - Prompt Engineering
 
+### Generative AI & Frameworks
+- LangChain
+- LangGraph
+
+### AI Concepts & Pipelines
+- RAG (Retrieval-Augmented Generation)
+
+### Databases
+- Vector Databases (e.g., Pinecone, ChromaDB, Weaviate, Milvus, Qdrant)
+
 ---
 
 ## 📌 Current Focus
